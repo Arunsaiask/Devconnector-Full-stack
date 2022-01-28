@@ -1,0 +1,7 @@
+{
+    "mongoURI": "mongodb+srv://admin-ask:qwerty%4064@mern.fipns.mongodb.net/MernDB?retryWrites=true&w=majority",
+    "tokenSecret":"arunsai",
+    "githubClientID":"9b473ea543fdf57b8dac",
+    "githubSecret":"6ad61e35b603b088dbe685c35a8c65fb058a3ec0"
+  }
+  
